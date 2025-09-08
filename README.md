@@ -16,7 +16,7 @@ Selain itu, aku tambahin juga beberapa package tambahan (`gradient-string`, `box
   ```
 
 - Clone repo ini atau download source code-nya, lalu jalankan:
-  git clone https://github.com/username/Week4-node-plugin.git
+  git clone https://github.com/baiqluthfida/Week4-node-plugin.git
   cd Week4-node-plugin
 
 - Install semua package yang dibutuhkan:
